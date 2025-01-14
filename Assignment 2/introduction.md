@@ -1,11 +1,11 @@
 <html>
   <body>
     <!--Contents-->
-                            <h2 id="Title">PC Assemble</h2><br>
-                              <img src="utmdigital1.jpeg" width="400px" alt="PC"> <br>
-                              <img src="utmdigital2.jpeg" width="400px" alt="PC"> <br>
-                              <img src="utmdigital3.jpeg" width="400px" alt="PC"> <br>
-                              <img src="utmdigital4.jpeg" width="400px" alt="PC"> <br>
+                            <h2 id="Title">Industry Visit 1</h2><br>
+                              <img src="utmdigital1.jpg" width="400px" alt="PC"> <br>
+                              <img src="utmdigital2.jpg" width="400px" alt="PC"> <br>
+                              <img src="utmdigital3.jpg" width="400px" alt="PC"> <br>
+                              <img src="utmdigital4.jpg" width="400px" alt="PC"> <br>
                                 <p><u>06 November 2024</u><br>
                                     <div>
                                         <br><p> &emsp; Today morning, I learned how to assemble and reassemble a PC. This is a new experience for me
