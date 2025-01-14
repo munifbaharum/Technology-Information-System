@@ -19,8 +19,6 @@
                                                 <li>Remove the Hard Disk</li>
                                                 <li>Remove the CPU fan</li>
                                             </ul><br>
-                                            To reassemble, just reverse the steps. Hopefully, it runs well.
-                                            After the lab, we are going to take a quiz about what we learned before. It's easy if you remember the steps.
                                         </p>
                                 </p>
   </body>
