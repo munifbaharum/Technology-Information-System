@@ -7,8 +7,14 @@
                               <img src="pic3.jpeg" width="400px" alt="PC"> <br>
                                 <p><u>06 November 2024</u><br>
                                     <div>
-                                        <br><p> &emsp; Today morning, I learned how to assemble and reassemble a PC. This is a new experience for me
-                                            even though I'm really scared that the PC might get damaged. But it was fun to play with it. Here are some steps to assemble a PC:
+                                        <br><p> &emsp;  I had the opportunity to engage in a hands-on session of PC assembling and disassembling. I gained a much deeper understanding of the inner workings of a computer as I progressed through the process.
+
+                                        Throughout the session, I learned how each part of the PC is interconnected and how crucial it is to handle each component with care. I was introduced to the step-by-step procedure, from opening the case and disconnecting all the cables to removing the power supply, RAM, hard disk, and CPU fan.This hands-on experience taught me to pay attention to detail required when assembling or disassembling a computer.
+
+                                        Reflecting on the experience, I now feel more confident in handling PC hardware. The session not only enhanced my technical skills but also provided me with a deeper understanding of the details of computer architecture.
+
+                                        Below are the steps to disassemble a PC :
+
                                             <ul>
                                                 <br><li>Open the case</li>
                                                 <li>Disconnect all the connected wires.</li>
