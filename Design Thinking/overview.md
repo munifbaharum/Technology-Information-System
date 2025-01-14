@@ -2,9 +2,10 @@
   <body>
     <!--Contents-->
                             <h2 id="Title">Design Thinking (Low Fidelity Prototype)</h2><br>
-                              <img src="pic1.jpeg" width="400px" alt="PC"> <br>
-                              <img src="pic2.jpeg" width="400px" alt="PC"> <br>
-                              <img src="pic3.jpeg" width="400px" alt="PC"> <br>
+                              <img src="interview1.jpg" width="400px" alt="PC"> <br>
+                              <img src="interview2.jpg" width="400px" alt="PC"> <br>
+                              <img src="interview3.jpg" width="400px" alt="PC"> <br>
+                              <img src="presentation.jpg" width="400px" alt="PC"> <br>
                                 <p><u>06 November 2024</u><br>
                                     <div>
                                         <br><p> &emsp; Today morning, I learned how to assemble and reassemble a PC. This is a new experience for me
