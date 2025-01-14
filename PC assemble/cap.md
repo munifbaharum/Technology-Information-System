@@ -3,6 +3,8 @@
     <!--Contents-->
                             <h2 id="Title">PC Assemble</h2><br>
                               <img src="PC assemble/IMG_1429.jpeg" width="400px" alt="PC"> <br>
+                              <img src="PC assemble/IMG_1432.jpeg" width="400px" alt="PC"> <br>
+                              <img src="PC assemble/IMG_1437.jpeg" width="400px" alt="PC"> <br>
                                 <p><u>06 November 2024</u><br>
                                     <div>
                                         <br><p> &emsp; Today morning, I learned how to assemble and reassemble a PC. This is a new experience for me
