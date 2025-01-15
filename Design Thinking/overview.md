@@ -7,9 +7,9 @@
                               <img src="interview3.jpg" width="400px" alt="PC"> <br>
                               <img src="blender.jpg" width="400px" alt="PC"> <br>
                               <img src="presentation.jpg" width="400px" alt="PC"> <br>
-                                <p><u>08 January 2025</u><br>
+                                <p><u>22 October 2024 - 08 January 2025</u><br>
                                     <div>
-                                        <br><p> &emsp; For our Design Thinking project, we are developing an AI-powered sports shoe integrated with IoT technology. The shoe will these features:
+                                        <br><p> &emsp;For our Design Thinking project, we are developing an AI-powered sports shoe integrated with IoT technology. The shoe will these features:
                                             <ul>
                                                 <br><li>Performance tracking</li>
                                                 <li>Automatic adjustments</li>
