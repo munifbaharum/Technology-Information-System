@@ -15,11 +15,11 @@
                                             <p>In terms of improvement, I believe we could further explore the shoe's customization options, allowing users to personalize settings based on their unique preferences and needs. Additionally, incorporating a longer battery life for the IoT features would make the product even more practical.
                                             <p>Overall, this project has inspired me to continue exploring the intersection of technology and design, and I’m excited about the potential for smart products to make a real impact in various industries.
                                         </p>
-                              <img src="interview1.jpg" width="400px" alt="PC"> <br>
-                              <img src="interview2.jpg" width="400px" alt="PC"> <br>
-                              <img src="interview3.jpg" width="400px" alt="PC"> <br>
-                              <img src="blender.jpg" width="400px" alt="PC"> <br>
-                              <img src="presentation.jpg" width="400px" alt="PC"> <br>
+                              <img src="pictures/interview1.jpg" width="400px" alt="PC"> <br>
+                              <img src="pictures/interview2.jpg" width="400px" alt="PC"> <br>
+                              <img src="pictures/interview3.jpg" width="400px" alt="PC"> <br>
+                              <img src="pictures/blender.jpg" width="400px" alt="PC"> <br>
+                              <img src="pictures/presentation.jpg" width="400px" alt="PC"> <br>
                                 </p>
   </body>
 </html>

@@ -10,10 +10,10 @@
                                         <p>Reflecting on the visit to UTMDigital, I gained a deeper understanding of how technology plays a crucial role in enhancing university operations and student experience. I was particularly impressed by how UTMDigital integrates various digital solutions, such as the MyUTM site, UTMSmart app, and the Data Centre, to streamline services and ensure efficient management of resources.
                                         <p>The visit also highlighted the importance of the Digital Care unit in providing continuous support for both students and staff, and how systems like UTMWiFi contribute to the university’s goal of building a connected and technology-oriented campus. This visit gave me a better understanding of how digital technologies can make a real difference in education. It also made me excited about the possibility of using similar technologies in other industries to improve efficiency and drive progress.
                                         </p>
-                              <img src="utmdigital1.jpg" width="400px" alt="PC"> <br>
-                              <img src="utmdigital2.jpg" width="400px" alt="PC"> <br>
-                              <img src="utmdigital3.jpg" width="400px" alt="PC"> <br>
-                              <img src="utmdigital4.jpg" width="400px" alt="PC"> <br>
+                              <img src="pictures/utmdigital1.jpg" width="400px" alt="PC"> <br>
+                              <img src="pictures/utmdigital2.jpg" width="400px" alt="PC"> <br>
+                              <img src="pictures/utmdigital3.jpg" width="400px" alt="PC"> <br>
+                              <img src="pictures/utmdigital4.jpg" width="400px" alt="PC"> <br>
                                 </p>
   </body>
 </html>

@@ -2,9 +2,9 @@
   <body>
     <!--Contents-->
                             <h2 id="Title">PC Assemble</h2><br>
-                              <img src="pic1.jpeg" width="400px" alt="PC"> <br>
-                              <img src="pic2.jpeg" width="400px" alt="PC"> <br>
-                              <img src="pic3.jpeg" width="400px" alt="PC"> <br>
+                              <img src="pictures/pic1.jpeg" width="400px" alt="PC"> <br>
+                              <img src="pictures/pic2.jpeg" width="400px" alt="PC"> <br>
+                              <img src="pictures/pic3.jpeg" width="400px" alt="PC"> <br>
                                 <p><u>06 November 2024</u><br>
                                     <div>
                                         <br><p> &emsp;  I had the opportunity to engage in a hands-on session of PC assembling and disassembling. I gained a much deeper understanding of the inner workings of a computer as I progressed through the process.
