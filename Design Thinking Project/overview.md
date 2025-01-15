@@ -18,9 +18,9 @@
                               <img src="interview1.jpg" width="400px" alt="PC"> <br>
                               <img src="interview2.jpg" width="400px" alt="PC"> <br>
                               <img src="interview3.jpg" width="400px" alt="PC"> <br>
-                              <br> interview session
+                              <p> interview session
                               <img src="blender.jpg" width="400px" alt="PC"> <br>
-                              <br> prototype developing using Blender
+                              <p> prototype developing using Blender
                               <img src="presentation.jpg" width="400px" alt="PC"> <br>
                                 </p>
   </body>
