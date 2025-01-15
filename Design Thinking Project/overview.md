@@ -4,7 +4,7 @@
                             <h2 id="Title">Design Thinking (Low Fidelity Prototype)</h2><br>
                                 <p><u>22 October 2024 - 08 January 2025</u><br>
                                     <div>
-                                        <br><p>For our Design Thinking project, we are developing an AI-powered sports shoe integrated with IoT technology. The shoe will these features:
+                                        <br><p>For our Design Thinking project, we are developing an AI-powered sports shoe integrated with IoT technology. The shoe will include these features:
                                             <ul>
                                                 <br><li>Performance tracking</li>
                                                 <li>Automatic adjustments</li>
