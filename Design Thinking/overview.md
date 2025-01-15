@@ -5,8 +5,9 @@
                               <img src="interview1.jpg" width="400px" alt="PC"> <br>
                               <img src="interview2.jpg" width="400px" alt="PC"> <br>
                               <img src="interview3.jpg" width="400px" alt="PC"> <br>
+                              <img src="blender.jpg" width="400px" alt="PC"> <br>
                               <img src="presentation.jpg" width="400px" alt="PC"> <br>
-                                <p><u>06 November 2024</u><br>
+                                <p><u>08 January 2025</u><br>
                                     <div>
                                         <br><p> &emsp; Today morning, I learned how to assemble and reassemble a PC. This is a new experience for me
                                             even though I'm really scared that the PC might get damaged. But it was fun to play with it. Here are some steps to assemble a PC:
