@@ -1,12 +1,18 @@
+<!DOCTYPE html>
 <html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Industry Visit 1</title>
+  </head>
   <body>
     <!--Contents-->
-    <h2 id="Title">Industry Visit 1</h2><br>
-    <p><u>10 December 2024</u><br></p>
+    <h2 id="Title">Industry Visit 1</h2>
+    <p><u>10 December 2024</u></p>
     
     <div>
       <p>For Assignment 2, which is Industry Visit 1, we conducted an industry visit at UTMDigital. UTMDigital is a division within the University of Technology Malaysia (UTM) that focuses on digital transformation and innovation. UTMDigital is one of the Core Enablers that plays a very important role in driving UTM towards the success of the Digital University agenda. UTMDigital, as the Leader of the Digital University, functions as an organization that provides digital services, including infrastructure and ICT infrastructure to all campus residents.</p>
-      
+
       <p>During the visit, we were exposed to how UTM Digital supports UTM in various aspects, including student data management and campus facilities. UTMDigital plays a key role through systems like the Digital Care unit, which provides technical support, and the MyUTM site, which offers a centralized platform for university services.</p>
       
       <p>We also learned about the UTMSmart app, which enhances campus life with smart services, and the Data Centre, which ensures secure and efficient management of university data. Additionally, UTMDigital helps maintain facilities such as UTMWiFi, ensuring seamless connectivity across the campus. This visit provided valuable insights into how UTMDigital's technologies improve operational efficiency and the overall student experience at UTM.</p>
@@ -19,15 +25,15 @@
     </div>
 
     <!-- Images Section -->
-    <img src="pictures/utmdigital1.jpg" width="400px" alt="UTM Digital Image 1"> <br>
-    <img src="pictures/utmdigital2.jpg" width="400px" alt="UTM Digital Image 2"> <br>
-    <img src="pictures/utmdigital3.jpg" width="400px" alt="UTM Digital Image 3"> <br>
-    <img src="pictures/utmdigital4.jpg" width="400px" alt="UTM Digital Image 4"> <br>
+    <img src="pictures/utmdigital1.jpg" width="400px" alt="UTM Digital Image 1"> 
+    <img src="pictures/utmdigital2.jpg" width="400px" alt="UTM Digital Image 2"> 
+    <img src="pictures/utmdigital3.jpg" width="400px" alt="UTM Digital Image 3"> 
+    <img src="pictures/utmdigital4.jpg" width="400px" alt="UTM Digital Image 4"> 
 
     <!-- References Section -->
     <p><strong>References:</strong></p>
     <ul>
-      <li>Admin. (2023, September 21). UTMDigital Envision 2025. UTMDigital. https://digital.utm.my/utmdigital-envision2025/</li>
+      <li>Admin. (2023, September 21). UTMDigital Envision 2025. UTMDigital. <a href="https://digital.utm.my/utmdigital-envision2025/">https://digital.utm.my/utmdigital-envision2025/</a></li>
     </ul>
   </body>
 </html>
