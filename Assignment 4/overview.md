@@ -1,8 +1,8 @@
 <html>
   <body>
     <!--Contents-->
-                            <h2 id="Title">Industry Visit 2 (format: newsletter)</h2><br>
-                                <p><u>25 January 2025</u><br>
+                            <h2 id="Title">Industry Visit 2 (Format : Newsletter)</h2><br>
+                            <p><u>25 January 2025</u><br>
                                     <div>
                                         <br><p>For our industry visit 2, due to lack of time - we could only conduct a self-study on a YouTube video related to the topic of AI in Agriculture. Below is a summary of the technologies that could be implemented in the industry, based on the insights we gathered from the video:
                                             <ul>

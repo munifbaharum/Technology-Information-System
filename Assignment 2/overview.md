@@ -1,8 +1,8 @@
 <html>
   <body>
     <!--Contents-->
-                            <h2 id="Title">Industry Visit 1</h2><br>
-                                <p><u>10 December 2024</u><br>
+                            <h2 id="Title">Industry Visit 1 (Format : Video)</h2><br>
+                            <p><u>10 December 2024</u><br>
                                     <div>
                                         <br><p>For Assignment 2, which is Industry Visit 1, we conducted an industry visit at UTMDigital. UTMDigital is a division within the University of Technology Malaysia (UTM) that focuses on digital transformation and innovation.UTMDigital is one of the Core Enablers that plays a very important role indriving UTM towards the success of the Digital University agenda. UTMDigital as the Leader of the Digital University functions as an organization that provides digital services including infostructure and ICT infrastructure to all campus residents.
                                         <p>During the visit, we were exposed to how UTM Digital supports UTM in various aspects, including student data management and campus facilities. UTMDigital plays a key role through systems like the Digital Care unit, which provides technical support, and the MyUTM site, which offers a centralized platform for university services. 
