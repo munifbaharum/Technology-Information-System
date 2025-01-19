@@ -3,9 +3,9 @@
     <!--Contents-->
                     <p>
                      <img src="picture/ref1.jpg" width="400px" alt="PC"> <br>
-                     <img src="picture/ref2.jpg" width="400px" alt="PC"> <br>
-                     <img src="picture/ref3.jpg" width="400px" alt="PC"> <br>
-                     <img src="picture/ref4.jpg" width="400px" alt="PC"> <br>
+                     <img src="picture/ref2.png" width="400px" alt="PC"> <br>
+                     <img src="picture/ref3.png" width="400px" alt="PC"> <br>
+                     <img src="picture/ref4.png" width="400px" alt="PC"> <br>
                      <p><strong>References:</strong></p>
                         <ul>
                         <li>Discover Agriculture. (2023, March 5). Artificial intelligence (AI) in agriculture | The future of modern smart farming with IoT [Video]. YouTube. https://www.youtube.com/watch?v=_tijHjup-gM</li>
