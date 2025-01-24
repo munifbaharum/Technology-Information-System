@@ -4,7 +4,6 @@
         <p><u>25 January 2025</u><br>
     </header>
     <section>
-        <h2>Overview of the Task</h2>
         <p>For our Industry Talk 2 assignment, we were required to watch a presentation video and prepare an academic report focusing on entrepreneurship in IT, ICT workforce employability in Malaysia, and the knowledge and skills required for success in the industry. The presentation featured two speakers:</p>
         <ul>
             <li><strong>Mohd Hakimi Iqmail</strong> - A project manager at UTMDigital who shared his journey from studying multimedia to leading IT projects and developing systems like the Welfare Services System and Payroll 2.0.</li>
