@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Industry Talk 2 (Format : Report)</title>
+    <h2 id="Title">Industry Talk 2 (Format : Report)</h2><br>
 </head>
 <body>
     <section>
