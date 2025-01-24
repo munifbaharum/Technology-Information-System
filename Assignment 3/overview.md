@@ -3,9 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <h2 id="Title">Industry Talk 2 (Format : Report)</h2><br>
+    <title>Industry Talk 2 Report</title>
 </head>
 <body>
+    <header>
+        <h2 id="Title">Industry Talk 2 (Format: Report)</h2>
+    </header>
     <section>
         <h2>Overview of the Task</h2>
         <p>For our Industry Talk 2 assignment, we were required to watch a presentation video and prepare an academic report focusing on entrepreneurship in IT, ICT workforce employability in Malaysia, and the knowledge and skills required for success in the industry. The presentation featured two speakers:</p>
