@@ -1,13 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Industry Talk 2 Report</title>
-</head>
-<body>
-    <header>
-        <h2 id="Title">Industry Talk 2 (Format: Report)</h2>
+<html>
+  <body>
+        <h2 id="Title">Industry Visit 2 (Format : Newsletter)</h2><br>
+        <p><u>25 January 2025</u><br>
     </header>
     <section>
         <h2>Overview of the Task</h2>
