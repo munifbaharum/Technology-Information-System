@@ -1,7 +1,7 @@
 <html>
   <body>
     <!--Contents-->
-    <h2 id="Title">Assignment 1 (Format : Poster) </h2><br>
+    <h2 id="Title">Industry Talk 1 (Format : Poster) </h2><br>
     <p><u>23 November 2024</u></p>
     <div>
       <br>
